@@ -1,0 +1,22 @@
+{
+  "name": "React-Bidding-System",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  },
+  "repository" : { 
+   "type" : "git",
+   "url" : "https://github.com/sushma571/React-Bidding-System.git"
+ },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushma Maddipati",
+  "license": "ISC",
+  "description": ""
+}
